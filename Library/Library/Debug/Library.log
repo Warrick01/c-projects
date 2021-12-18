@@ -1,0 +1,6 @@
+﻿  books.cpp
+  libraryDriver.cpp
+C:\Users\Warri\source\repos\Library\Library\libraryDriver.cpp(231,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Warri\source\repos\Library\Library\libraryDriver.cpp(244,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Library.vcxproj -> C:\Users\Warri\source\repos\Library\Debug\Library.exe
